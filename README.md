@@ -3,12 +3,12 @@
 The CEO has charged your analytics groups with a task: “What are the characteristics of an organization that adapts well to data analytics?” The CEO’s intention is to restructure the company to foster adoption and advancement of data analytics capabilities across units.
 * Text Analysis Process
 
-A. Data Collection
+    A. Data Collection
 Based on the Forbes data company ranking list in 2015, using google search to get the mission statements and core values of well-performed companies in the list, which are saved as company_corevalu.csv /company_mission.csv, and represented below,
 
-B. Dataset Input and Description
+    B. Dataset Input and Description
 
-C. Text Analysis
+    C. Text Analysis
     - Text Preprocessing
       - Initializing corpus
       - Cleaning corpus&Separate sentence&Remove the stop words
